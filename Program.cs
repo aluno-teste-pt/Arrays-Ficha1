@@ -12,7 +12,7 @@ namespace Arrays_Ficha1
         {
             // Exercício 1: declare e inicialize um array do tipo int chamado numeros com os valores 1, 2, 3, 4 e 5
 
-            // *** Inserir resolução do exercício 1 aqui
+            int[] numeros = { 1, 2, 3, 4, 5 };
 
             // Exercício 2: declare e inicialize um array chamado diasSemana que guarda os nomes dos dias da semana
 
